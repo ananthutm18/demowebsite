@@ -532,7 +532,14 @@ form button{
      padding: 100px;
       margin-left: 100px;
 }
-
+.bodubuildingvideo{
+    width: 80%;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+.bodybuildingcontainer{
+    border-radius: 5px;
+}
 /*------------------mediq quesry css---------------*/
 
 
@@ -743,6 +750,12 @@ margin-bottom: 10px;
     padding: 0px; 
     margin-left: 0px;
     width: 100%;
+}
+
+.bodubuildingvideo{
+    width: 80%;
+    border-radius: 5px;
+    margin-left: 10px;
 }
 
 }
