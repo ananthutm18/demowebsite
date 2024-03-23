@@ -331,7 +331,7 @@ nav ul li a:hover::after{
     margin-left: 3px;
     border-radius: 3px;
     margin-right: 3px;
-    transition: .5s;
+   
     color: black;
     
 }
@@ -604,7 +604,7 @@ nav .fa-solid{
     
     }
     .ourservices{
-        height: 170vh;
+        height: 230vh;
     }
     .servicelist{
         margin-left: 5px;
