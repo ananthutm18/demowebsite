@@ -527,6 +527,12 @@ form button{
 
 
 
+.policycontainer{
+    width: 70%;
+     padding: 100px;
+      margin-left: 100px;
+}
+
 /*------------------mediq quesry css---------------*/
 
 
@@ -713,7 +719,7 @@ nav ul .fa-solid{
     margin-bottom: 100px;
 }
  
-
+ 
 .type1{
     margin-top: 10px;
    
@@ -729,6 +735,14 @@ margin-bottom: 10px;
     font-family: Georgia, serif;
     margin-top:10px;
     margin-left: 8px;
+}
+
+.policycontainer{
+  
+    
+    padding: 0px; 
+    margin-left: 0px;
+    width: 100%;
 }
 
 }
